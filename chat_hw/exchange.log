@@ -1,0 +1,8 @@
+2023-07-12 13:53:51,146 - websockets.server - INFO - server listening on [::1]:8080
+2023-07-12 13:53:51,146 - websockets.server - INFO - server listening on 127.0.0.1:8080
+2023-07-12 13:53:57,494 - websockets.server - INFO - connection open
+2023-07-12 13:54:01,299 - root - INFO - Exchange command
+2023-07-12 13:54:16,398 - root - INFO - Exchange command
+2023-07-12 13:54:32,526 - websockets.server - INFO - connection closed
+2023-07-12 13:54:32,527 - websockets.server - INFO - server closing
+2023-07-12 13:54:32,527 - websockets.server - INFO - server closed

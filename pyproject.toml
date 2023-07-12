@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hw-5-python-web"
+version = "0.1.0"
+description = ""
+authors = ["evgen-kulik <e.kulik.atom@gmail.com>"]
+readme = "README.md"
+packages = [{include = "hw_5_python_web"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.8.4"
+black = "^23.3.0"
+websockets = "^11.0.3"
+names = "^0.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
